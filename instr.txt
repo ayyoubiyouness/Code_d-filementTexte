@@ -1,2 +1,3 @@
 http://localhost:8080/telecommande.htm
 http://localhost:8080/prompteur.htm
+to run this app just clone it and run in the terminal : node index.just
